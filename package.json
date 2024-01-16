@@ -2,12 +2,11 @@
   "name": "tailwind",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arulmozhikumar7.github.io/solar-system-explorer",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
-    "@react-three/drei": "^9.93.1",
+    "@react-three/drei": "^9.94.1",
     "@react-three/fiber": "^8.15.14",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -48,7 +47,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
     "prettier": "^3.2.2",
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.4.1"
