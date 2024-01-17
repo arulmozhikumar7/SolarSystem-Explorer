@@ -1,4 +1,3 @@
-```markdown
 # Solar System Explorer
 
 Explore the wonders of our solar system with this interactive React application using Tailwind CSS and Three.js.
