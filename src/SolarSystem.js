@@ -115,7 +115,7 @@ const SolarSystem = () => {
 
 <a href="https://en.wikipedia.org/wiki/Mercury_(planet)" target="_blank" rel="noopener noreferrer" className='text-teal-500'>To know Further Click Here.</a>
       ],
-      modelPath: "/assets/Mercury.glb"
+      modelPath: "assets/Mercury.glb"
     },
     {
       id: "venus",
@@ -159,7 +159,7 @@ const SolarSystem = () => {
       </React.Fragment>,
      <a href="https://en.wikipedia.org/wiki/Venus" target="_blank" rel="noopener noreferrer" className='text-teal-500'>To know Further Click Here.</a>
       ],
-      modelPath: "/assets/Venus.glb"
+      modelPath: "assets/Venus.glb"
     },
     {
       id: "earth",
@@ -196,7 +196,7 @@ const SolarSystem = () => {
       </React.Fragment>,
     <a href="https://en.wikipedia.org/wiki/Earth" target="_blank" rel="noopener noreferrer" className='text-teal-500'>To know Further Click Here.</a>
       ],
-      modelPath: "assets//Earth.glb"
+      modelPath: "assets/Earth.glb"
     },
     {
       id: "mars",
@@ -240,7 +240,7 @@ const SolarSystem = () => {
       </React.Fragment>,
     <a href="https://en.wikipedia.org/wiki/Mars" target="_blank" rel="noopener noreferrer" className='text-teal-500'>To know Further Click Here.</a>  
       ],
-      modelPath: "/assets/Mars.glb"
+      modelPath: "assets/Mars.glb"
     },
     {
       id: "jupiter",
@@ -277,7 +277,7 @@ const SolarSystem = () => {
   </React.Fragment>,
   <a href="https://en.wikipedia.org/wiki/Jupiter" target="_blank" rel="noopener noreferrer" className='text-teal-500'>To know Further Click Here.</a>  
       ],
-      modelPath: "/assets/Jupiter.glb"
+      modelPath: "assets/Jupiter.glb"
     },
     {
       id: "saturn",
@@ -309,7 +309,7 @@ const SolarSystem = () => {
   </React.Fragment>,
   <a href="https://en.wikipedia.org/wiki/Saturn" target="_blank" rel="noopener noreferrer" className='text-teal-500'>To know Further Click Here.</a>  
       ],
-      modelPath: "/assets/Saturn.glb"
+      modelPath: "assets/Saturn.glb"
     },
     {
       id: "uranus",
@@ -348,7 +348,7 @@ const SolarSystem = () => {
       </React.Fragment>,  
       <a href="https://en.wikipedia.org/wiki/Uranus" target="_blank" rel="noopener noreferrer" className='text-teal-500'>To know Further Click Here.</a>
       ],
-      modelPath: "/assets/Uranus.glb"
+      modelPath: "assets/Uranus.glb"
     },
     {
       id: "neptune",
@@ -380,7 +380,7 @@ const SolarSystem = () => {
   </React.Fragment>,
   <a href="https://en.wikipedia.org/wiki/Neptune" target="_blank" rel="noopener noreferrer" className='text-teal-500'>To know Further Click Here.</a>  
       ],
-      modelPath: "/assets/Neptune.glb"
+      modelPath: "assets/Neptune.glb"
     }
   ];
   
